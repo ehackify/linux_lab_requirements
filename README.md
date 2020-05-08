@@ -29,8 +29,8 @@ Download KALI Virtualbox image
 ------------------------------
 
 Kali Linux VirtualBox 32-Bit
-https://images.offensive-security.com/virtual-images/kali-linux-2020.1-vbox-i386.ova
+https://images.offensive-security.com/virtual-images/kali-linux-2019.1-vbox-i386.ova
 
 Kali Linux VirtualBox 64-Bit
-https://images.offensive-security.com/virtual-images/kali-linux-2020.1-vbox-amd64.ova
+https://images.offensive-security.com/virtual-images/kali-linux-2019.1-vbox-amd64.ova
 
