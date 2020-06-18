@@ -1,7 +1,7 @@
-LINUX LAB REQUIREMENTS
+# LINUX LAB REQUIREMENTS
 ======================
 
-# VirtualBox
+## VirtualBox
 
 
 Download VirtualBox latest versions 
@@ -18,21 +18,21 @@ OR
 
 -------------------
 
-# Use Terminal to install via CLI 
+## Use Terminal to install via CLI 
 
 sudo su
 apt install virtualbox -y
 
 -------------------------------
 
-# VirtualBox Extension Pack
+## VirtualBox Extension Pack
 
 Universal
 https://download.virtualbox.org/virtualbox/6.1.4/Oracle_VM_VirtualBox_Extension_Pack-6.1.4.vbox-extpack
 
 -------------------------
 
-# Download KALI Virtualbox image
+## Download KALI Virtualbox image
 
 
 Kali Linux VirtualBox 32-Bit
