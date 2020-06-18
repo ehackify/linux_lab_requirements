@@ -15,12 +15,14 @@ Ubuntu 18.04 / 18.10 / 19.04
 https://download.virtualbox.org/virtualbox/6.1.4/virtualbox-6.1_6.1.4-136177~Ubuntu~bionic_amd64.deb
 
 OR
+
 -------------------
 
 # Use Terminal to install via CLI 
 
 sudo su
 apt install virtualbox -y
+
 -------------------------------
 
 # VirtualBox Extension Pack
@@ -29,6 +31,7 @@ Universal
 https://download.virtualbox.org/virtualbox/6.1.4/Oracle_VM_VirtualBox_Extension_Pack-6.1.4.vbox-extpack
 
 -------------------------
+
 # Download KALI Virtualbox image
 
 
@@ -37,4 +40,5 @@ https://images.offensive-security.com/virtual-images/kali-linux-2019.1-vbox-i386
 
 Kali Linux VirtualBox 64-Bit
 https://images.offensive-security.com/virtual-images/kali-linux-2019.1-vbox-amd64.ova
+
 ------------------------------
