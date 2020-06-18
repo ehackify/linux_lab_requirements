@@ -4,7 +4,7 @@ LINUX LAB REQUIREMENTS
 VirtualBox
 -------------------
 
-Download VirtualBox
+Download VirtualBox latest versions 
 https://www.virtualbox.org/wiki/Downloads
 
 Windows 7/10 
