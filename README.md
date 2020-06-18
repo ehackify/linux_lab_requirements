@@ -1,5 +1,5 @@
-LINUX LAB REQUIREMENTS for Workshop/ Lab
-===================================
+LINUX LAB REQUIREMENTS
+======================
 
 VirtualBox
 -------------------
