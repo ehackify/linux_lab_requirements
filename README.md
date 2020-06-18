@@ -1,6 +1,5 @@
 # LINUX LAB REQUIREMENTS
 
-------------------------
 
 ## VirtualBox
 
