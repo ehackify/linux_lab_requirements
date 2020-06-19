@@ -6,9 +6,10 @@
 
 Download VirtualBox latest version from 
 https://www.virtualbox.org/wiki/Downloads
+ 
+For Windows Click [Windows hosts](https://download.virtualbox.org/virtualbox/6.1.10/VirtualBox-6.1.10-138449-Win.exe)
 
-Click [Windows hosts](https://download.virtualbox.org/virtualbox/6.1.10/VirtualBox-6.1.10-138449-Win.exe)
-
+For Linux Click [Linux distributions](https://www.virtualbox.org/wiki/Linux_Downloads)
 OR
 
 -------------------
