@@ -4,7 +4,7 @@
 ## VirtualBox
 
 
-Download VirtualBox latest versions 
+Download VirtualBox latest version from 
 https://www.virtualbox.org/wiki/Downloads
 
 Click [Windows hosts](https://download.virtualbox.org/virtualbox/6.1.10/VirtualBox-6.1.10-138449-Win.exe)
