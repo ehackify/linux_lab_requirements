@@ -20,8 +20,9 @@ OR
 
 ## Use Terminal to install via CLI 
 
-sudo su
-apt install virtualbox -y
+   > sudo su
+   
+   > apt install virtualbox -y
 
 -------------------------------
 
