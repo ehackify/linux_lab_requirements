@@ -7,6 +7,8 @@
 Download VirtualBox latest versions 
 https://www.virtualbox.org/wiki/Downloads
 
+Click Windows hosts in blue color link
+
 OR
 
 -------------------
