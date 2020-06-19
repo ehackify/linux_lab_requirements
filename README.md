@@ -29,9 +29,10 @@ https://download.virtualbox.org/virtualbox/6.1.4/Oracle_VM_VirtualBox_Extension_
 -------------------------
 
 ## Download KALI Virtualbox image
-### Latest
+### Latest links
 https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/#1572305786534-030ce714-cc3b
 
-
+### Link for virtualbox 64bit image
+https://images.offensive-security.com/virtual-images/kali-linux-2020.2-vbox-amd64.ova?_ga=2.47218658.419878430.1592562305-422258540.1592562305
 
 ------------------------------
