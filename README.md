@@ -7,7 +7,7 @@
 Download VirtualBox latest versions 
 https://www.virtualbox.org/wiki/Downloads
 
-Click Windows hosts in blue color link
+Click [Windows hosts] (https://download.virtualbox.org/virtualbox/6.1.10/VirtualBox-6.1.10-138449-Win.exe)
 
 OR
 
@@ -26,7 +26,7 @@ OR
 Universal
 https://www.virtualbox.org/wiki/Downloads
 
-Click All supported platforms
+Click [All supported platforms] (https://download.virtualbox.org/virtualbox/6.1.10/Oracle_VM_VirtualBox_Extension_Pack-6.1.10.vbox-extpack)
 
 -------------------------
 
