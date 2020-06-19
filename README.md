@@ -7,13 +7,6 @@
 Download VirtualBox latest versions 
 https://www.virtualbox.org/wiki/Downloads
 
-Windows 7/10 
-https://download.virtualbox.org/virtualbox/6.1.4/VirtualBox-6.1.4-136177-Win.exe
-
-
-Ubuntu 18.04 / 18.10 / 19.04
-https://download.virtualbox.org/virtualbox/6.1.4/virtualbox-6.1_6.1.4-136177~Ubuntu~bionic_amd64.deb
-
 OR
 
 -------------------
@@ -37,11 +30,6 @@ https://download.virtualbox.org/virtualbox/6.1.4/Oracle_VM_VirtualBox_Extension_
 ### Latest
 https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/#1572305786534-030ce714-cc3b
 
-### older Version
-Kali Linux VirtualBox 32-Bit
-https://images.offensive-security.com/virtual-images/kali-linux-2019.1-vbox-i386.ova
 
-Kali Linux VirtualBox 64-Bit
-https://images.offensive-security.com/virtual-images/kali-linux-2019.1-vbox-amd64.ova
 
 ------------------------------
